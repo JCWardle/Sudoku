@@ -1,4 +1,1 @@
-Sudoku
-======
-
-Sudoku game built for android.
+Sudoku for the android platform.
